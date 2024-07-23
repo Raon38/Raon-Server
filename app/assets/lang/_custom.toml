@@ -13,5 +13,5 @@ supportLink = "https://github.com/Raon38/Raon-Server/issues"
 
 [ejs.welcome]
 welcomeHeader = "라온서버에 오신 것을 환영합니다!"
-welcomeDescription = "해당 런처는 '아이곰(discord: babybear7)에 의해 제작되었습니다.'"
+welcomeDescription = "해당 런처는 '아이곰(discord: babybear7)'에 의해 제작되었습니다."
 welcomeDescCTA = "몇번만 더 클릭하시면 됩니다!"
