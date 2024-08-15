@@ -1,10 +1,9 @@
 {
     "images": [
-        "https://raw.githubusercontent.com/CustomLauncherLab/sampleLauncher/main/app/assets/images/backgrounds/0.jpg",
-        "https://raw.githubusercontent.com/CustomLauncherLab/sampleLauncher/main/app/assets/images/backgrounds/1.jpg",
-        "https://raw.githubusercontent.com/CustomLauncherLab/sampleLauncher/main/app/assets/images/backgrounds/2.jpg",
-        "https://raw.githubusercontent.com/CustomLauncherLab/sampleLauncher/main/app/assets/images/backgrounds/3.jpg",
-        "https://raw.githubusercontent.com/CustomLauncherLab/sampleLauncher/main/app/assets/images/backgrounds/4.jpg",
-        "https://raw.githubusercontent.com/CustomLauncherLab/sampleLauncher/main/app/assets/images/backgrounds/5.jpg"
+        "https://raw.githubusercontent.com/BabyBear7/launcher-demo/main/app/assets/images/backgrounds/1.jpg",
+        "https://raw.githubusercontent.com/BabyBear7/launcher-demo/main/app/assets/images/backgrounds/2.jpg",
+        "https://raw.githubusercontent.com/BabyBear7/launcher-demo/main/app/assets/images/backgrounds/3.jpg",
+        "https://raw.githubusercontent.com/BabyBear7/launcher-demo/main/app/assets/images/backgrounds/4.jpg",
+        "https://raw.githubusercontent.com/BabyBear7/launcher-demo/main/app/assets/images/backgrounds/5.jpg"
     ]
 }
